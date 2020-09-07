@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+package-lock.json
+src/core
+
+dist/Valine.min.js*
+dist/Valine.Pure.min.js*
